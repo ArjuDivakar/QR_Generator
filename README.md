@@ -1,1 +1,2 @@
-# QR_Generator_Arju
+# QR_Generator
+arju
